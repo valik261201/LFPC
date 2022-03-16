@@ -1,0 +1,11 @@
+int function prod(int a, int b){
+int pr = a * b
+return pr
+}
+int main(){
+int a = 21
+print("hello")
+int b = 15
+int ab = prod(a, b)
+print(ab)
+}

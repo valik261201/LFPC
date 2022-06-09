@@ -1,7 +1,0 @@
-a b d
-S A B D
-S
-S -> dB | AB
-A -> d | dS | aAaAb | #
-B -> a | aS | A
-D -> Aba
